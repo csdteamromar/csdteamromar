@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @csdteamromar
-- 👀 I’m interested in ...EMO
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# EMO
+Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions
 
-<!---
-csdteamromar/csdteamromar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Linrui Tian, Qi Wang, Bang Zhang, Liefeng Bo,
+
+Institute for Intelligent Computing, Alibaba Group
+
+<a href='https://humanaigc.github.io/emote-portrait-alive/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+<a href='https://arxiv.org/abs/2402.17485'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/VlJ71kzcn9Y)
+
+![pipeline](content/intro.png)
+ 
+## Citation
+```
+@misc{tian2024emo,
+      title={EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions}, 
+      author={Linrui Tian and Qi Wang and Bang Zhang and Liefeng Bo},
+      year={2024},
+      eprint={2402.17485},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
+
+
+
+
+
+
